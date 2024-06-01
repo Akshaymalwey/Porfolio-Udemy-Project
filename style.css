@@ -1,0 +1,63 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.akshay-photo img{
+    margin-left: 50px;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+.name h1{
+    font-size:80px;
+    margin: 0px;
+    padding: 0px;
+}
+.name p{
+    font-size: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.caveat-handwritten {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.col-10 img{
+    width: 400px;
+    border-radius: 7px;
+}
+.hero{
+    background-color: #CDE8E5;
+}
+
+.introduction{
+    background-color: #EEF7FF;
+}
+.Qualifications .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;     
+}
+.container{
+    margin: 0px;
+    padding: 0px;
+}
+.Qualifications{
+    background-color: #7AB2B2;
+}
+
+.text-body-emphasis {
+    
+    color: white;
+}
